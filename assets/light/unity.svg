@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="218" height="70" viewBox="0 0 218 70" role="img" aria-labelledby="title">
+<title id="title">Unity real logo in a clean neon capsule (light)</title>
+<defs>
+ <linearGradient id="face" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F0F5FC"/></linearGradient>
+ <linearGradient id="side" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#C5F2F7"/><stop offset="1" stop-color="#DECDF7"/></linearGradient>
+ <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00CFE8"/><stop offset="1" stop-color="#B64DFF"/></linearGradient>
+ <linearGradient id="medallion" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#C6F6FF"/><stop offset="1" stop-color="#EAD9FF"/></linearGradient>
+ <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".52"/><stop offset=".7" stop-color="#FFFFFF" stop-opacity=".02"/></linearGradient>
+ <filter id="shadow" x="-25%" y="-40%" width="160%" height="210%"><feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#6556B8" flood-opacity=".22"/></filter>
+</defs>
+<g filter="url(#shadow)">
+ <rect x="15" y="16" width="190" height="43" rx="22" fill="url(#side)"/>
+ <rect x="8" y="7" width="190" height="44" rx="22" fill="url(#face)" stroke="#D2DCEB" stroke-width="1"/>
+ <rect x="8" y="7" width="190" height="44" rx="22" fill="url(#gloss)"/>
+ <path d="M26 9h154" stroke="url(#neon)" stroke-opacity=".92" stroke-width="1.45" stroke-linecap="round"/>
+ <circle cx="34" cy="29" r="17.3" fill="url(#medallion)" stroke="url(#neon)" stroke-width="1.4"/>
+ <circle cx="34" cy="29" r="14.3" fill="#FFFFFF" fill-opacity=".30"/>
+ <svg x="23" y="18" width="22" height="22" viewBox="0 0 24 24" fill="#222222" aria-hidden="true"><path d="m12.9288 4.2939 3.7997 2.1929c.1366.077.1415.2905 0 .3675l-4.515 2.6076a.4192.4192 0 0 1-.4246 0L7.274 6.8543c-.139-.0745-.1415-.293 0-.3675l3.7972-2.193V0L1.3758 5.5977V16.793l3.7177-2.1456v-4.3858c-.0025-.1565.1813-.2682.318-.1838l4.5148 2.6076a.4252.4252 0 0 1 .2136.3676v5.2127c.0025.1565-.1813.2682-.3179.1838l-3.7996-2.1929-3.7178 2.1457L12 24l9.6954-5.5977-3.7178-2.1457-3.7996 2.1929c-.1341.082-.3229-.0248-.3179-.1838V13.053c0-.1565.087-.2956.2136-.3676l4.5149-2.6076c.134-.082.3228.0224.3179.1838v4.3858l3.7177 2.1456V5.5977L12.9288 0Z" /></svg>
+ <text x="61" y="35.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="700" fill="#202A3B">Unity</text>
+ <path d="M62 45h56" stroke="url(#neon)" stroke-width="1.4" stroke-linecap="round" opacity=".9"/>
+ <circle cx="180" cy="29" r="2.2" fill="#8F5EFF"/>
+</g>
+</svg>

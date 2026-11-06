@@ -2,8 +2,7 @@
 
 <div align="center">
 
-![Animated Nima Dalir coding banner — light theme](assets/light/hero.gif#gh-light-mode-only)
-![Animated Nima Dalir coding banner — dark theme](assets/dark/hero.gif#gh-dark-mode-only)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/hero.gif"><source media="(prefers-color-scheme: light)" srcset="assets/light/hero.gif"><img src="assets/light/hero.gif" alt="Animated Nima Dalir coding banner — light theme"></picture>
 
 </div>
 
@@ -69,8 +68,7 @@
 </div>
 <div align="center">
 
-![Animated AI learning focus — light theme](assets/light/exploring.gif#gh-light-mode-only)
-![Animated AI learning focus — dark theme](assets/dark/exploring.gif#gh-dark-mode-only)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/exploring.gif"><source media="(prefers-color-scheme: light)" srcset="assets/light/exploring.gif"><img src="assets/light/exploring.gif" alt="Animated AI learning focus — light theme"></picture>
 
 </div>
 
@@ -94,14 +92,14 @@
 <h4 dir="ltr" align="left">Programming, AI &amp; Automation</h4>
 <div align="center">
 
-![Python](assets/light/python.svg#gh-light-mode-only)![Python](assets/dark/python.svg#gh-dark-mode-only)&nbsp;&nbsp;
-![Termux](assets/light/termux.svg#gh-light-mode-only)![Termux](assets/dark/termux.svg#gh-dark-mode-only)&nbsp;&nbsp;
-![Ollama](assets/light/ollama.svg#gh-light-mode-only)![Ollama](assets/dark/ollama.svg#gh-dark-mode-only)&nbsp;&nbsp;
-![llama.cpp](assets/light/llama-cpp.svg#gh-light-mode-only)![llama.cpp](assets/dark/llama-cpp.svg#gh-dark-mode-only)&nbsp;&nbsp;
-![LM Studio](assets/light/lm-studio.svg#gh-light-mode-only)![LM Studio](assets/dark/lm-studio.svg#gh-dark-mode-only)&nbsp;&nbsp;
-![LangChain](assets/light/langchain.svg#gh-light-mode-only)![LangChain](assets/dark/langchain.svg#gh-dark-mode-only)&nbsp;&nbsp;
-![n8n](assets/light/n8n.svg#gh-light-mode-only)![n8n](assets/dark/n8n.svg#gh-dark-mode-only)&nbsp;&nbsp;
-![Hugging Face](assets/light/hugging-face.svg#gh-light-mode-only)![Hugging Face](assets/dark/hugging-face.svg#gh-dark-mode-only)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/python.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/python.svg"><img src="assets/light/python.svg" alt="Python"></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/termux.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/termux.svg"><img src="assets/light/termux.svg" alt="Termux"></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ollama.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/ollama.svg"><img src="assets/light/ollama.svg" alt="Ollama"></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/llama-cpp.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/llama-cpp.svg"><img src="assets/light/llama-cpp.svg" alt="llama.cpp"></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/lm-studio.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/lm-studio.svg"><img src="assets/light/lm-studio.svg" alt="LM Studio"></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/langchain.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/langchain.svg"><img src="assets/light/langchain.svg" alt="LangChain"></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/n8n.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/n8n.svg"><img src="assets/light/n8n.svg" alt="n8n"></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/hugging-face.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/hugging-face.svg"><img src="assets/light/hugging-face.svg" alt="Hugging Face"></picture>
 
 </div>
 
@@ -109,9 +107,9 @@
 <h4 dir="ltr" align="left">Linux &amp; Mobile</h4>
 <div align="center">
 
-![Linux](assets/light/linux.svg#gh-light-mode-only)![Linux](assets/dark/linux.svg#gh-dark-mode-only)&nbsp;&nbsp;
-![Android](assets/light/android.svg#gh-light-mode-only)![Android](assets/dark/android.svg#gh-dark-mode-only)&nbsp;&nbsp;
-![Docker](assets/light/docker.svg#gh-light-mode-only)![Docker](assets/dark/docker.svg#gh-dark-mode-only)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/linux.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/linux.svg"><img src="assets/light/linux.svg" alt="Linux"></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/android.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/android.svg"><img src="assets/light/android.svg" alt="Android"></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/docker.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/docker.svg"><img src="assets/light/docker.svg" alt="Docker"></picture>
 
 </div>
 
@@ -119,9 +117,9 @@
 <h4 dir="ltr" align="left">Game Development &amp; 3D</h4>
 <div align="center">
 
-![Godot](assets/light/godot.svg#gh-light-mode-only)![Godot](assets/dark/godot.svg#gh-dark-mode-only)&nbsp;&nbsp;
-![Unity](assets/light/unity.svg#gh-light-mode-only)![Unity](assets/dark/unity.svg#gh-dark-mode-only)&nbsp;&nbsp;
-![Blender](assets/light/blender.svg#gh-light-mode-only)![Blender](assets/dark/blender.svg#gh-dark-mode-only)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/godot.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/godot.svg"><img src="assets/light/godot.svg" alt="Godot"></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/unity.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/unity.svg"><img src="assets/light/unity.svg" alt="Unity"></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/blender.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/blender.svg"><img src="assets/light/blender.svg" alt="Blender"></picture>
 
 </div>
 
@@ -129,10 +127,10 @@
 <h4 dir="ltr" align="left">Development Tools</h4>
 <div align="center">
 
-![Git](assets/light/git.svg#gh-light-mode-only)![Git](assets/dark/git.svg#gh-dark-mode-only)&nbsp;&nbsp;
-![GitHub](assets/light/github.svg#gh-light-mode-only)![GitHub](assets/dark/github.svg#gh-dark-mode-only)&nbsp;&nbsp;
-![VS Code](assets/light/vscode.svg#gh-light-mode-only)![VS Code](assets/dark/vscode.svg#gh-dark-mode-only)&nbsp;&nbsp;
-![Vim](assets/light/vim.svg#gh-light-mode-only)![Vim](assets/dark/vim.svg#gh-dark-mode-only)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/git.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/git.svg"><img src="assets/light/git.svg" alt="Git"></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/github.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/github.svg"><img src="assets/light/github.svg" alt="GitHub"></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/vscode.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/vscode.svg"><img src="assets/light/vscode.svg" alt="VS Code"></picture>&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/vim.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/vim.svg"><img src="assets/light/vim.svg" alt="Vim"></picture>
 
 </div>
 
@@ -200,8 +198,8 @@
 <!-- Replace TELEGRAM_ID and INSTAGRAM_ID with the collaborator's real handles before publishing. -->
 <div align="center">
 
-[![Telegram](assets/light/telegram.svg#gh-light-mode-only)![Telegram](assets/dark/telegram.svg#gh-dark-mode-only)](https://t.me/TELEGRAM_ID)&nbsp;&nbsp;
-[![Instagram](assets/light/instagram.svg#gh-light-mode-only)![Instagram](assets/dark/instagram.svg#gh-dark-mode-only)](https://instagram.com/INSTAGRAM_ID)
+<a href="https://t.me/TELEGRAM_ID"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/telegram.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/telegram.svg"><img src="assets/light/telegram.svg" alt="Telegram"></picture></a>&nbsp;&nbsp;
+<a href="https://instagram.com/INSTAGRAM_ID"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/instagram.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/instagram.svg"><img src="assets/light/instagram.svg" alt="Instagram"></picture></a>
 
 </div>
 
@@ -226,8 +224,8 @@
 <!-- Replace these example channel URLs before publishing. -->
 <div align="center">
 
-[![YouTube](assets/light/youtube.svg#gh-light-mode-only)![YouTube](assets/dark/youtube.svg#gh-dark-mode-only)](https://youtube.com/@your-channel)&nbsp;&nbsp;
-[![Telegram](assets/light/telegram.svg#gh-light-mode-only)![Telegram](assets/dark/telegram.svg#gh-dark-mode-only)](https://t.me/your-channel)
+<a href="https://youtube.com/@your-channel"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/youtube.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/youtube.svg"><img src="assets/light/youtube.svg" alt="YouTube"></picture></a>&nbsp;&nbsp;
+<a href="https://t.me/your-channel"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/telegram.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/telegram.svg"><img src="assets/light/telegram.svg" alt="Telegram"></picture></a>
 
 </div>
 
@@ -243,9 +241,9 @@
 <!-- Replace the PASTE_*_HERE href values with your real destinations before publishing. -->
 <div align="center">
 
-<a href="PASTE_PORTFOLIO_URL_HERE"><img src="assets/light/contact-portfolio.svg#gh-light-mode-only" alt="Portfolio: YOUR_WEBSITE"/><img src="assets/dark/contact-portfolio.svg#gh-dark-mode-only" alt="Portfolio: YOUR_WEBSITE"/></a> <a href="PASTE_LINKEDIN_URL_HERE"><img src="assets/light/contact-linkedin.svg#gh-light-mode-only" alt="LinkedIn: YOUR_LINKEDIN"/><img src="assets/dark/contact-linkedin.svg#gh-dark-mode-only" alt="LinkedIn: YOUR_LINKEDIN"/></a><br/><br/>
-<a href="PASTE_GITHUB_URL_HERE"><img src="assets/light/contact-github.svg#gh-light-mode-only" alt="GitHub: YOUR_GITHUB"/><img src="assets/dark/contact-github.svg#gh-dark-mode-only" alt="GitHub: YOUR_GITHUB"/></a> <a href="mailto:PASTE_EMAIL_ADDRESS_HERE"><img src="assets/light/contact-email.svg#gh-light-mode-only" alt="Email: YOUR_EMAIL"/><img src="assets/dark/contact-email.svg#gh-dark-mode-only" alt="Email: YOUR_EMAIL"/></a><br/><br/>
-<a href="PASTE_TELEGRAM_URL_HERE"><img src="assets/light/contact-telegram.svg#gh-light-mode-only" alt="Telegram: @YOUR_TELEGRAM"/><img src="assets/dark/contact-telegram.svg#gh-dark-mode-only" alt="Telegram: @YOUR_TELEGRAM"/></a> <a href="PASTE_ORCID_URL_HERE"><img src="assets/light/contact-orcid.svg#gh-light-mode-only" alt="ORCID iD: YOUR_ORCID_ID"/><img src="assets/dark/contact-orcid.svg#gh-dark-mode-only" alt="ORCID iD: YOUR_ORCID_ID"/></a>
+<a href="PASTE_PORTFOLIO_URL_HERE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-portfolio.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-portfolio.svg"><img src="assets/light/contact-portfolio.svg" alt="Portfolio: YOUR_WEBSITE"></picture></a> <a href="PASTE_LINKEDIN_URL_HERE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-linkedin.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-linkedin.svg"><img src="assets/light/contact-linkedin.svg" alt="LinkedIn: YOUR_LINKEDIN"></picture></a><br/><br/>
+<a href="PASTE_GITHUB_URL_HERE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-github.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-github.svg"><img src="assets/light/contact-github.svg" alt="GitHub: YOUR_GITHUB"></picture></a> <a href="mailto:PASTE_EMAIL_ADDRESS_HERE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-email.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-email.svg"><img src="assets/light/contact-email.svg" alt="Email: YOUR_EMAIL"></picture></a><br/><br/>
+<a href="PASTE_TELEGRAM_URL_HERE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-telegram.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-telegram.svg"><img src="assets/light/contact-telegram.svg" alt="Telegram: @YOUR_TELEGRAM"></picture></a> <a href="PASTE_ORCID_URL_HERE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-orcid.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-orcid.svg"><img src="assets/light/contact-orcid.svg" alt="ORCID iD: YOUR_ORCID_ID"></picture></a>
 
 </div>
 
