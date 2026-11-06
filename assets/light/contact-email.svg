@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="218" height="70" viewBox="0 0 218 70" role="img" aria-labelledby="title">
+<title id="title">YOUR_EMAIL Email link placeholder capsule (light)</title>
+<defs>
+<linearGradient id="face" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F0F5FC"/></linearGradient>
+<linearGradient id="side" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#C5F2F7"/><stop offset="1" stop-color="#DECDF7"/></linearGradient>
+<linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00CFE8"/><stop offset="1" stop-color="#B64DFF"/></linearGradient>
+<linearGradient id="medallion" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#C6F6FF"/><stop offset="1" stop-color="#EAD9FF"/></linearGradient>
+<linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".52"/><stop offset=".7" stop-color="#FFFFFF" stop-opacity=".02"/></linearGradient>
+<filter id="shadow" x="-25%" y="-40%" width="160%" height="210%"><feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#6556B8" flood-opacity=".22"/></filter>
+</defs>
+<g filter="url(#shadow)">
+ <rect x="15" y="16" width="190" height="43" rx="22" fill="url(#side)"/>
+ <rect x="8" y="7" width="190" height="44" rx="22" fill="url(#face)" stroke="#D2DCEB" stroke-width="1"/>
+ <rect x="8" y="7" width="190" height="44" rx="22" fill="url(#gloss)"/>
+ <path d="M26 9h154" stroke="url(#neon)" stroke-opacity=".92" stroke-width="1.45" stroke-linecap="round"/>
+ <circle cx="34" cy="29" r="17.3" fill="url(#medallion)" stroke="url(#neon)" stroke-width="1.4"/>
+ <circle cx="34" cy="29" r="14.3" fill="#FFFFFF" fill-opacity=".30"/>
+ <svg xmlns="http://www.w3.org/2000/svg" x="23" y="18" width="22" height="22" viewBox="0 0 24 24" fill="#EA4335" aria-hidden="true"><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z" /></svg>
+
+ <text x="61" y="35.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="700" fill="#202A3B">YOUR_EMAIL</text>
+ <path d="M62 45h56" stroke="url(#neon)" stroke-width="1.4" stroke-linecap="round" opacity=".9"/>
+ <circle cx="180" cy="29" r="2.2" fill="#8F5EFF"/>
+</g>
+</svg>
