@@ -199,7 +199,7 @@
 <div align="center">
 
 <a href="https://t.me/alireza_bokharaei_051"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/telegram.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/telegram.svg"><img src="assets/light/telegram.svg" alt="Telegram"></picture></a>&nbsp;&nbsp;
-<a href="https://instagram.com/INSTAGRAM_ID"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/instagram.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/instagram.svg"><img src="assets/light/instagram.svg" alt="Instagram"></picture></a>
+<a href="https://instagram.com/INSTAGRAM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/instagram.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/instagram.svg"><img src="assets/light/instagram.svg" alt="Instagram"></picture></a>
 
 </div>
 
@@ -241,7 +241,7 @@
 <!-- Replace the PASTE_*_HERE href values with your real destinations before publishing. -->
 <div align="center">
 
-<a href="PASTE_PORTFOLIO_URL_HERE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-portfolio.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-portfolio.svg"><img src="assets/light/contact-portfolio.svg" alt="Portfolio: YOUR_WEBSITE"></picture></a> <a href="PASTE_LINKEDIN_URL_HERE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-linkedin.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-linkedin.svg"><img src="assets/light/contact-linkedin.svg" alt="LinkedIn: YOUR_LINKEDIN"></picture></a><br/><br/>
+<a href="PASTE_PORTFOLIO_URL_HERE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-portfolio.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-portfolio.svg"><img src="assets/light/contact-portfolio.svg" alt="Portfolio: WEBSITE"></picture></a> <a href="PASTE_LINKEDIN_URL_HERE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-linkedin.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-linkedin.svg"><img src="assets/light/contact-linkedin.svg" alt="LinkedIn: LINKEDIN"></picture></a><br/><br/>
 <a href="https://github.com/ndnima/ndnima?v=2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-github.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-github.svg"><img src="assets/light/contact-github.svg" alt="GitHub: ndnima"></picture></a> <a href="mailto:dalirnima137@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-email.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-email.svg"><img src="assets/light/contact-email.svg" alt="Email: dalirnima"></picture></a><br/><br/>
 <a href="https://t.me/ndnima"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-telegram.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-telegram.svg"><img src="assets/light/contact-telegram.svg" alt="Telegram: @ndnima"></picture></a> <a href="PASTE_ORCID_URL_HERE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-orcid.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-orcid.svg"><img src="assets/light/contact-orcid.svg" alt="ORCID iD: YOUR_ORCID_ID"></picture></a>
 
