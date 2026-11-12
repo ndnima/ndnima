@@ -190,8 +190,8 @@
 
 ## 👥 Meet the Team
 
-**[Collaborator Name]** — **[Role / Expertise]**  
-**[Add a short description of the collaboration]**
+**[alireza-bokharaei]** — **[Software Development, Infrastructure, and Network Security]**  
+**[Building automation and multiple tools together]**
 
 </div>
 
@@ -241,7 +241,7 @@
 <!-- Replace the PASTE_*_HERE href values with your real destinations before publishing. -->
 <div align="center">
 
-<a href="PASTE_PORTFOLIO_URL_HERE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-portfolio.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-portfolio.svg"><img src="assets/light/contact-portfolio.svg" alt="Portfolio: WEBSITE"></picture></a> <a href="PASTE_LINKEDIN_URL_HERE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-linkedin.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-linkedin.svg"><img src="assets/light/contact-linkedin.svg" alt="LinkedIn: LINKEDIN"></picture></a><br/><br/>
+<a href="PASTE_PORTFOLIO_URL_HERE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-portfolio.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-portfolio.svg"><img src="assets/light/contact-portfolio.svg" alt="Portfolio: WEBSITE"></picture></a> <a href="https://www.linkedin.com/in/ndnima19/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-linkedin.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-linkedin.svg"><img src="assets/light/contact-linkedin.svg" alt="LinkedIn: LINKEDIN"></picture></a><br/><br/>
 <a href="https://github.com/ndnima/ndnima?v=2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-github.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-github.svg"><img src="assets/light/contact-github.svg" alt="GitHub: ndnima"></picture></a> <a href="mailto:dalirnima137@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-email.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-email.svg"><img src="assets/light/contact-email.svg" alt="Email: dalirnima"></picture></a><br/><br/>
 <a href="https://t.me/ndnima"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-telegram.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-telegram.svg"><img src="assets/light/contact-telegram.svg" alt="Telegram: @ndnima"></picture></a> <a href="PASTE_ORCID_URL_HERE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact-orcid.svg"><source media="(prefers-color-scheme: light)" srcset="assets/light/contact-orcid.svg"><img src="assets/light/contact-orcid.svg" alt="ORCID iD: YOUR_ORCID_ID"></picture></a>
 
